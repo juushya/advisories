@@ -41,6 +41,7 @@
 * Moxa SoftNVR-IA Live Viewer - CVE-2017-5170
 * mySCADA myPRO HMI/SCADA management - CVE-2017-12730
 * Nordex Control 2 Wind Turbines - CVE-2015-6477
+* NREL EnergyPlus, Energy simulation program - CVE-2019-10974
 * Papouch TME Ethernet thermometer + TME multi: Temperature and humidity via Ethernet – (CVE in progress)
 * Progea Movicon SCADA/HMI - CVE-2017-14017, CVE-2017-14019
 * RS232-NET Converter – (CVE in progress)
