@@ -1,3 +1,7 @@
+##### msf5 > search author:Karn
+
+
+
 ## Broadband Radios | Modems | Routers | Surveillance Cameras
 
 * Cambium Networks’ ePMP and cnPilot product lines - (CVE-2017-5254, CVE-2017-5255, CVE-2017-5256, CVE-2017-5257, CVE-2017-5258, CVE-2017-5259, CVE-2017-5260, CVE-2017-5261, CVE-2017-5262, CVE-2017-5263, CVE-2017-7918, CVE-2017-7922, EDB-ID: 38776)
